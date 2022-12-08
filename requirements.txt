@@ -1,4 +1,4 @@
-certifi==2019.9.11
+certifi==2022.12.7
 Django==2.1.7
 pytz==2019.3
 wincertstore==0.2
